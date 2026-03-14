@@ -1,7 +1,9 @@
 ## Hi there 👋
 <p align="left">
   <img src="teto.png" width="70">
+  <a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width="40"/></a>
 </p>
+
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
