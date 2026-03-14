@@ -1,24 +1,29 @@
 ## Hi there 👋
 <p align="left">
   <img src="teto.png" width="70">
-  <a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width="40"/></a>
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-left:10px; vertical-align: middle;">
 </p>
 
+<table>
+<tr>
+<td>
+<img src="teto.png" width="70">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</td>
+</tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 
-<!--
-**yuta578/yuta578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+
+
+ <a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width="40"/></a>
