@@ -1,4 +1,9 @@
 
+<table>
+<tr>
+
+<td valign="top">
+
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td valign="middle">
@@ -46,6 +51,17 @@
 </tr>
 </table>
 
+</td>
+
+<td valign="top" align="center">
+
+<h3> <--- Trabajando y aprendiendo estas bellesas</h3>
+
+
+</td>
+
+</tr>
+</table>
 
 
 
