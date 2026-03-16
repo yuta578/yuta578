@@ -64,8 +64,9 @@
 </table>
 
 
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-
- <a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width="40"/></a>
+<a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="steam" width="100"/></a>
+<a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="steam" width="100"/></a>
+<a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="steam" width="100"/></a>
+<a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="steam" width="100"/></a>
+<a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="steam" width="100"/></a>
+<a href="https://steamcommunity.com/profiles/76561199192193583/"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="steam" width="100"/></a>
