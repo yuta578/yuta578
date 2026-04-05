@@ -58,7 +58,7 @@
 <h2> <--- Trabajando y aprendiendo estas maleducadas</h2>
 
 <h3> Mas cosas aqui </h3>
-<a href="https://yuta578.github.io"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="web" width="150"/></a>
+<a href="https://yuta578.github.io/prescript"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="web" width="150"/></a>
 </td>
 
 </tr>
